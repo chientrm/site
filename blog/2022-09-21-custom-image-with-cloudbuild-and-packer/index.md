@@ -1,7 +1,7 @@
 ---
 title:  "Custom image with Google Cloud Build and Packer"
 authors: chientrm
-tag: [cloud build, custom image, packer, devops, workflows]
+tags: [cloud build, custom image, packer, devops, workflows]
 ---
 
 ## Abstract
