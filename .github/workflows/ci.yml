@@ -1,8 +1,8 @@
-name: CI
+name: Dev
 
 on:
-  pull_request:
-    branches: ["ci"]
+  push:
+    branches: ["dev"]
 jobs:
   gramma:
     runs-on: ubuntu-latest
