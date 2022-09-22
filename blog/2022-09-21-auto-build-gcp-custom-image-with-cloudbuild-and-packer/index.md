@@ -1,5 +1,6 @@
 ---
 title:  "Auto build GCP custom image with Cloud Build and Packer"
+author: chientrm
 tag: [cloud build, custom image, packer, devops, workflows]
 ---
 
