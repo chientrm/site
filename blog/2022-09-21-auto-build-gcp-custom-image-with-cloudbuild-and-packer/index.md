@@ -88,34 +88,34 @@ At the root of your repository, add these files:
 #### **`cloudbuild.yaml`**
 
 ```yaml
-    steps:
-      - name: "gcr.io/<your-project-id>/packer"
-        args:
-          - build
-          - packer.json
+steps:
+  - name: "gcr.io/<your-project-id>/packer"
+    args:
+      - build
+      - packer.json
 ```
 
 #### **`packer.json`**
 
 ```json
+{
+  "builders": [
     {
-      "builders": [
-        {
-          "type": "googlecompute",
-          "project_id": "<your-project-id>",
-          "zone": "us-central1-a",
-          "image_storage_locations": ["us-central1"],
-          "ssh_username": "packer",
-          "source_image_family": "debian-11",
-        }
-      ],
-      "provisioners": [
-        {
-          "type": "shell",
-          "inline": "echo 'Hello World!'"
-        }
-      ]
+      "type": "googlecompute",
+      "project_id": "<your-project-id>",
+      "zone": "us-central1-a",
+      "image_storage_locations": ["us-central1"],
+      "ssh_username": "packer",
+      "source_image_family": "debian-11",
     }
+  ],
+  "provisioners": [
+    {
+      "type": "shell",
+      "inline": "echo 'Hello World!'"
+    }
+  ]
+}
 ```
 
 ### Setup Cloud Build Trigger
