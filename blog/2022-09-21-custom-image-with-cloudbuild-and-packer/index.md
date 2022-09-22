@@ -1,5 +1,6 @@
 ---
-title:  "Custom image with Google Cloud Build and Packer"
+title: Custom image with Google Cloud Build and Packer
+description: This article will help you set up the correct workflow and mistakes.
 authors: chientrm
 tag: [cloud build, custom image, packer, devops, workflows]
 ---
