@@ -26,4 +26,4 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - run: sudo gem install mdl
-      - run: mdl _posts
+      - run: mdl blog
