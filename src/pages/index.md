@@ -1,7 +1,8 @@
 ---
-title: Tech blog
+title: chientrm.site
+description: Tech blog
 ---
 
-# chientrm.site
+## chientrm.site
 
 Tech blog and good vibes.
