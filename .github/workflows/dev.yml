@@ -3,6 +3,10 @@ name: Dev
 on:
   push:
     branches: ["dev"]
+    paths:
+      - .github/workflows/dev.yml
+      - blog/**
+
 jobs:
   gramma:
     runs-on: ubuntu-latest
