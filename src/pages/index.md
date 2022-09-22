@@ -1,5 +1,6 @@
 ---
-title: Tech blog
+title: chientrm.site
+description: Tech blog
 ---
 
 ## chientrm.site
