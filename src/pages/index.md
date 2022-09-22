@@ -1,5 +1,5 @@
 ---
-title: chientrm.site
+title: Homepage
 description: Tech blog
 image: /img/chientrm.png
 ---
