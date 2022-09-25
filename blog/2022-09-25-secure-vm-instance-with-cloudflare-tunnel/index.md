@@ -1,6 +1,6 @@
 ---
 title: Secure Ubuntu HTTP server with Cloudflare Tunnel
-description: Proxy HTTP server with HTTPS with Cloudflare Tunnel
+description: Proxy HTTP to HTTPS with Cloudflare Tunnel
 authors: chientrm
 image: /img/secure.jpg
 tag: [secure, proxy, cloudflare, https, http, tunnel]
