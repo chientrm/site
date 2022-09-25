@@ -12,7 +12,7 @@ tag: [secure, proxy, cloudflare, https, http, tunnel]
 
 Firstly, deploy a server on port `80` or `443` is usually blocked by firewall.
 Secondly, issuing and applying an SSL certificate is costly and complicated.
-Thirdly, exposing server's IP to the internet is a bad practice.
+Thirdly, exposing a server's IP to the internet is a bad practice.
 Thus, this article will show you how to secure your server with CF Tunnel.
 
 ## Introduction
@@ -20,9 +20,9 @@ Thus, this article will show you how to secure your server with CF Tunnel.
 ### Cloudflare Tunnel
 
 Tunnel requires a daemon named `cloudflared` to run on your server.
-This daemon create an outbound-only access to Cloudflare Networks.
-It also register a subdomain in form of `*.cfargotunnel.com`.
-However, this default subdomain is neither proxied or secured.
+This daemon creates an outbound-only access to Cloudflare Networks.
+It also registers a subdomain in form of `*.cfargotunnel.com`.
+However, this default subdomain is not secured.
 So that, we create a DNS record to proxy to it.
 
 ## Requirements
@@ -57,7 +57,7 @@ The credentials file `$HOME/.cloudflared/cert.pem` is generated.
 cloudflared tunnel create <NAME>
 ```
 
-Copy tunnel uuid from the output.
+Copy tunnel UUID from the output.
 
 ### Configurations file
 
@@ -98,7 +98,7 @@ Is my HTTP server required to be exposed to the Internet?
 
 > Your server only need to serve `localhost`, Tunnel will expose it for you.
 
-Am I required to create SSL certificate?
+Am I required to create an SSL certificate?
 
 > Tunnel will use the default certificates from Cloudflare.
 
