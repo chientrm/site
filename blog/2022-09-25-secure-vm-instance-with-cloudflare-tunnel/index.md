@@ -30,7 +30,7 @@ So that, we create a DNS record to proxy to it.
 - [Add a website to Cloudflare](
     https://developers.cloudflare.com/fundamentals/get-started/setup/add-site/
   )
-- [Change your domain nameservers to Cloudflare](
+- [Change your domain name servers to Cloudflare](
     https://developers.cloudflare.com/dns/zone-setups/full-setup/setup
   )
 
@@ -65,12 +65,12 @@ Copy tunnel UUID from the output.
 
 ```txt
 url: http://localhost:8080
-tunnel: <UUID>
-credentials-file: /root/.cloudflared/<Tunnel-UUID>.json
+tunnel: UUID
+credentials-file: /root/.cloudflared/UUID.json
 ```
 
 Replace `8080` with your port.
-Replace `<UUID>` with your tunnel uuid,
+Replace `UUID` with your tunnel uuid,
 replace `/root` with your home directory.
 
 ### Create DNS record
