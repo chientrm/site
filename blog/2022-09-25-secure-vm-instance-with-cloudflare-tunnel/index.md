@@ -65,12 +65,12 @@ Copy tunnel UUID from the output.
 
 ```txt
 url: http://localhost:8080
-tunnel: UUID
-credentials-file: /root/.cloudflared/UUID.json
+tunnel: <UUID>
+credentials-file: /root/.cloudflared/<UUID>.json
 ```
 
 Replace `8080` with your port.
-Replace `UUID` with your tunnel uuid,
+Replace `<UUID>` with your tunnel UUID,
 replace `/root` with your home directory.
 
 ### Create DNS record
