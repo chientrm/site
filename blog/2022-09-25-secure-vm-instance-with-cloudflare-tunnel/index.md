@@ -21,7 +21,7 @@ Thus, this article will show you how to secure your server with CF Tunnel.
 
 Tunnel requires a daemon named `cloudflared` to run on your server.
 This daemon creates an outbound-only access to Cloudflare Networks.
-It also registers a subdomain in form of `*.cfargotunnel.com`.
+It also registers a subdomain in the form of `*.cfargotunnel.com`.
 However, this default subdomain is not secured.
 So that, we create a DNS record to proxy to it.
 
@@ -65,12 +65,12 @@ Copy tunnel UUID from the output.
 
 ```txt
 url: http://localhost:8080
-tunnel: <Tunnel-UUID>
+tunnel: <UUID>
 credentials-file: /root/.cloudflared/<Tunnel-UUID>.json
 ```
 
 Replace `8080` with your port.
-Replace `<Tunnel-UUID>` with your tunnel uuid,
+Replace `<UUID>` with your tunnel uuid,
 replace `/root` with your home directory.
 
 ### Create DNS record
