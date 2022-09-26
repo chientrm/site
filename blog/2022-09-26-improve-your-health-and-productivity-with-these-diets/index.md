@@ -67,5 +67,5 @@ Doctor's supervision is appropriated.
 
 ## Conclusion
 
-Should only try one method at a time for clearlify results.
+Should only try one method at a time for clarify results.
 Self-monitoring your health and productivity while conducting.
