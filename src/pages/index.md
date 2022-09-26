@@ -1,6 +1,6 @@
 ---
 title: Homepage
-description: Tech blog
+description: Tech and life
 image: /img/chientrm.png
 ---
 
