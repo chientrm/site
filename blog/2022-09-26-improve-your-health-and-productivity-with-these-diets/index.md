@@ -14,12 +14,12 @@ tag: [diet, healthy, productivity, method, eat]
 ## Scopes
 
 - Eating methods
-- Benefits of each methods.
+- The benefits of each method.
 
 ## Out of scopes
 
 - New methods or scientific results.
-- How to apply each methods.
+- How to apply each method.
 - Harmful effects when abuse the methods.
 
 ## Methods
@@ -31,7 +31,7 @@ tag: [diet, healthy, productivity, method, eat]
 - Reduces oxidative stress and metabolic rate.
 - Improve BMI.
 - Improve glycemic control.
-- Increases ketogenesis and mitochondrial (mt)DNA.
+- Increases keto genesis and mitochondrial DNA.
 - Weight loss.
 - Slow down the process of neurological impairments.
 - Diversify gut microbiota composition.
