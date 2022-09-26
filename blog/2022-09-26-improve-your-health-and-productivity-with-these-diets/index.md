@@ -5,7 +5,7 @@ description: >
   Boost your productivity with ease.
   Avoid getting dizzy by food.
 authors: chientrm
-image: diet.jpg
+image: /img/diet.jpg
 tag: [diet, healthy, productivity, method, eat]
 ---
 
