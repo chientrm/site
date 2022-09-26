@@ -61,9 +61,7 @@ Copy tunnel UUID from the output.
 
 ### Configurations file
 
-#### **`$HOME/.cloudflared/config.yml`**
-
-```txt
+```yaml title="$HOME/.cloudflared/config.yml"
 url: http://localhost:8080
 tunnel: <UUID>
 credentials-file: /root/.cloudflared/<UUID>.json
