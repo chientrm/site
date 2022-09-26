@@ -26,7 +26,7 @@ tag: [diet, healthy, productivity, method, eat]
 
 ### Intermittent fasting
 
-Benefits
+*Benefits*
 
 - Reduces oxidative stress and metabolic rate.
 - Improve BMI.
@@ -37,7 +37,7 @@ Benefits
 - Diversify gut microbiota composition.
 - Increase lifespan.
 
-Read mores
+*Read mores*
 
 - [Five Days Periodic Fasting Elevates Levels of Longevity
   Related Christensenella and Sirtuin Expression in Humans](
@@ -46,26 +46,26 @@ Read mores
 
 ### Low-carbohydrate diet
 
-Benefits
+*Benefits*
 
 - Improve the ketosis process.
 - Reduce Cardiovascular risk.
 - Weight loss.
 - Improve glycemic control.
 
-Read mores
+*Read mores*
 
 [Low Carbohydrate Diet](https://www.ncbi.nlm.nih.gov/books/NBK537084/)
 
 ### Chewing
 
-Benefits
+*Benefits*
 
 - Influences appetite and food intake.
 - Reduce self-reported hunger.
 - Increased gut hormone release.
 
-Read mores
+*Read mores*
 
 [Effects of chewing on appetite, food intake and gut hormones:
   A systematic review and meta-analysis](
