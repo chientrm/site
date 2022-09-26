@@ -20,3 +20,9 @@ DNS
 UUID
 uuid
 DDoS
+BMI
+glycemic
+keto
+microbiota
+Sirtuin
+ketosis

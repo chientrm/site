@@ -44,7 +44,7 @@ tag: [diet, healthy, productivity, method, eat]
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7956384/
   )
 
-### Low-carb diet
+### Low-carbohydrate diet
 
 #### Benefits
 
