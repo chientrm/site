@@ -48,6 +48,16 @@ tag: [diet, healthy, productivity, method, eat]
 - Reduce self-reported hunger.
 - Increased gut hormone release.
 
+## Discussion
+
+Researches does not state that anybody should apply any method.
+Doctor's supervision is appropriated.
+
+## Conclusion
+
+Should only try one method at a time to clarify results.
+Self-monitoring your health and productivity while conducting.
+
 ## References
 
 - [Five Days Periodic Fasting Elevates Levels of Longevity
@@ -59,13 +69,3 @@ tag: [diet, healthy, productivity, method, eat]
   A systematic review and meta-analysis](
   https://www.sciencedirect.com/science/article/pii/S0031938415300317
   )
-
-## Discussion
-
-Researches does not state that anybody should apply any method.
-Doctor's supervision is appropriated.
-
-## Conclusion
-
-Should only try one method at a time to clarify results.
-Self-monitoring your health and productivity while conducting.
