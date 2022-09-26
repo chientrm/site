@@ -60,7 +60,12 @@ tag: [diet, healthy, productivity, method, eat]
   https://www.sciencedirect.com/science/article/pii/S0031938415300317
   )
 
+## Discussion
+
+Researches does not state that anybody should apply any method.
+Doctor's supervision is appropriated.
+
 ## Conclusion
 
-- Should try one method at a time.
-- Self-monitoring your health and productivity.
+Should only try one method at a time for clearlify results.
+Self-monitoring your health and productivity while conducting.
